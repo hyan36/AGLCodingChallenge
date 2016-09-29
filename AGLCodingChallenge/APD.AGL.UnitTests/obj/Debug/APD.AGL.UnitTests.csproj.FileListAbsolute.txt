@@ -1,0 +1,10 @@
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.UnitTests\bin\Debug\APD.AGL.UnitTests.dll
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.UnitTests\bin\Debug\APD.AGL.UnitTests.pdb
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.UnitTests\bin\Debug\APD.AGL.Services.dll
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.UnitTests\bin\Debug\APD.AGL.Services.pdb
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.UnitTests\obj\Debug\APD.AGL.UnitTests.csprojResolveAssemblyReference.cache
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.UnitTests\obj\Debug\APD.AGL.UnitTests.dll
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.UnitTests\obj\Debug\APD.AGL.UnitTests.pdb

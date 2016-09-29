@@ -1,0 +1,15 @@
+﻿@model APD.AGL.Mvc.Models.AGLViewModel
+@{
+    ViewBag.Title = "Index";
+}
+@helper PrintList(List<String> input,String name) {
+    <h2>@name</h2>
+    <ul>
+        @foreach (var o in input)
+        {
+            <li>@o</li>
+        }
+    </ul>
+}
+@PrintList(Model.MalesCat, "Male");
+@PrintList(Model.FemalesCat, "Female");

@@ -1,0 +1,5 @@
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.ConsoleApp\bin\Debug\APD.AGL.ConsoleApp.exe.config
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.ConsoleApp\bin\Debug\APD.AGL.ConsoleApp.exe
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.ConsoleApp\bin\Debug\APD.AGL.ConsoleApp.pdb
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.ConsoleApp\obj\Debug\APD.AGL.ConsoleApp.exe
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.ConsoleApp\obj\Debug\APD.AGL.ConsoleApp.pdb

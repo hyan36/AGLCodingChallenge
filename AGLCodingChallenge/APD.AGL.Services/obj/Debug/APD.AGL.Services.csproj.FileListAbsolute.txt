@@ -1,0 +1,5 @@
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\bin\Debug\APD.AGL.Services.dll
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\bin\Debug\APD.AGL.Services.pdb
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\obj\Debug\APD.AGL.Services.csprojResolveAssemblyReference.cache
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\obj\Debug\APD.AGL.Services.dll
+C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\obj\Debug\APD.AGL.Services.pdb

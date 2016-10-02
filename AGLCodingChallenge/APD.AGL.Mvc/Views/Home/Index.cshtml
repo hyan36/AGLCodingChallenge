@@ -5,11 +5,11 @@
 @helper PrintList(List<String> input,String name) {
     <h2>@name</h2>
     <ul>
-        @foreach (var o in input)
+        @foreach (var cat in input)
         {
-            <li>@o</li>
+            <li>@cat</li>
         }
     </ul>
 }
-@PrintList(Model.MalesCat, "Male");
-@PrintList(Model.FemalesCat, "Female");
+@PrintList(Model.MalesCat, "Male")
+@PrintList(Model.FemalesCat, "Female")

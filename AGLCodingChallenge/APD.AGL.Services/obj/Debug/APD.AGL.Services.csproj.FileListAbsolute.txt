@@ -12,3 +12,17 @@ C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\bin\Debug
 C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\obj\Debug\APD.AGL.Services.csprojResolveAssemblyReference.cache
 C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\obj\Debug\APD.AGL.Services.dll
 C:\git-projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\obj\Debug\APD.AGL.Services.pdb
+D:\Projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\bin\Debug\APD.AGL.Services.dll
+D:\Projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\bin\Debug\APD.AGL.Services.pdb
+D:\Projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\obj\Debug\APD.AGL.Services.csprojResolveAssemblyReference.cache
+D:\Projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\obj\Debug\APD.AGL.Services.dll
+D:\Projects\AGLCodingChallenge\AGLCodingChallenge\APD.AGL.Services\obj\Debug\APD.AGL.Services.pdb

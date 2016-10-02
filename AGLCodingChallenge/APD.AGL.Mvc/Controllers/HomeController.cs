@@ -10,13 +10,19 @@ namespace APD.AGL.Mvc.Controllers
 {
     public class HomeController : Controller
     {
+
+        protected IPeopleServices _service;
+
+        public HomeController(IPeopleServices service)
+        {
+            _service = service;
+        }
         // GET: Home
         public ActionResult Index()
         {
-            var service = new PeopleServices();
             var model = new AGL.Mvc.Models.AGLViewModel();            
-            model.MalesCat = service.GetCatByGender("Male").Select(o => o.Name).OrderBy(str => str).ToList();
-            model.FemalesCat = service.GetCatByGender("Female").Select(o => o.Name).OrderBy(str => str).ToList();
+            model.MalesCat = _service.GetCatByGender("Male").Select(o => o.Name).OrderBy(str => str).ToList();
+            model.FemalesCat = _service.GetCatByGender("Female").Select(o => o.Name).OrderBy(str => str).ToList();
             return View(model);
         }
     }

@@ -29,7 +29,6 @@ namespace APD.AGL.Services.Services
         public  List<People> LoadData()
         {
             var result = new List<People>();
-           // var uri = new Uri("http://agl-developer-test.azurewebsites.net/people.json");
             using (var webclient = new WebClient())
             {
                 var json = webclient.DownloadString("http://agl-developer-test.azurewebsites.net/people.json");

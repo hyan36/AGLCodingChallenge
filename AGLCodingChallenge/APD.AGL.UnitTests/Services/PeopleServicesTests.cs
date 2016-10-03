@@ -27,7 +27,7 @@ namespace APD.AGL.UnitTests
             {
                 Assert.IsTrue(cat.Type.Equals("Cat"));
             }
-            Assert.AreEqual(2, cats.Count);
+            Assert.AreEqual(4, cats.Count);
         }
     }
 }

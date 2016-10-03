@@ -40,9 +40,11 @@ namespace APD.AGL.Services.Services
 
         public List<Pet> GetCatByGender(string gender)
         {
-            var result = Peoples.Where(o => gender.Equals(o.Gender) && o.Pets != null&& o.Pets.Any(p => "Cat".Equals(p.Type)))
-                .Select(o => o.Pets.Where(p => "Cat".Equals(p.Type)).FirstOrDefault())
+            var cats = Peoples.Where(o => gender.Equals(o.Gender) && o.Pets != null&& o.Pets.Any(p => "Cat".Equals(p.Type)))
+                .Select(o => o.Pets.Where(p => "Cat".Equals(p.Type)).ToList())
                 .ToList();
+            var result = new List<Pet>();
+            cats.ForEach(o => o.ForEach(x => result.Add(x)));
             return result;
         }
     }
